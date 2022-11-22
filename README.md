@@ -1,3 +1,3 @@
 # PyPyng - a pong clone
 
-[Demo]()
+[Demo](demo.gif)
